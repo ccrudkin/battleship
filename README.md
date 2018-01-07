@@ -1,2 +1,2 @@
 # battleship
-Expansion of an online battleship-like tutorial.
+Expansion of a battleship-like tutorial from Codecademy.
